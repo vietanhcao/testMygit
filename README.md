@@ -1,2 +1,2 @@
 # testMygit
-example git
+My example git 
