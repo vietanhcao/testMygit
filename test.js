@@ -2,7 +2,7 @@
 console.log('merger2');
 
 
-console.log('this fissle test');
+console.log('this file merger2 to merge');
 
 console.log('this file test1dfdf123');
 
